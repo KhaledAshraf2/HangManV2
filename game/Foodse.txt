@@ -1,0 +1,64 @@
+apples
+applesauce
+apple juice
+black beans
+barley
+beer
+bread
+babaganoosh
+Cabbage
+cake
+carrots
+celery
+cheese
+chicken
+catfish
+chips
+chocolate
+clams
+coffee
+cookies
+corn
+cupcakes
+curry
+cereal
+dates
+duck
+dumplings
+donuts
+eggs
+sushi
+fajita
+falafel
+fish
+toast
+Garlic
+ginger
+grapes
+green beans
+ham
+hamburger
+honey
+hot dogs
+hummus
+ice cream
+jam
+jelly
+ketchup
+kiwi
+kidney beans
+lamb
+lasagna
+meatballs
+milk
+noodles
+ostrich
+pizza
+pepperoni
+pancakes
+spinach
+spaghetti
+waffles
+wine
+walnuts
+yogurt

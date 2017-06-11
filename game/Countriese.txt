@@ -1,0 +1,98 @@
+afghanistan
+algeria
+angola
+argentina
+australia
+bahrain
+belgium
+bolivia
+brazil
+albania
+andorra
+cameroon
+canada
+chad
+chile
+china
+colombia
+congo
+costa rica
+cuba
+czech
+denmark
+ecuador
+egypt
+ethiopia
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+finland
+guinea
+hong kong
+iceland
+india
+iran
+iraq
+ireland
+italy
+jamaica
+japan
+jordan
+korea
+kuwait
+latvia
+lebanon
+liberia
+libya
+malaysia
+maldives
+mali
+malta
+mauritania
+mexico
+monaco
+morocco
+netherlands
+new zealand
+nigeria
+north korea
+oman
+pakistan
+palestinian
+panama
+paraguay
+peru
+poland
+portugal
+qatar
+romania
+russia
+rwanda
+san marino
+saudi arabia
+senegal
+serbia
+slovakia
+slovenia
+somalia
+south africa
+south korea
+south sudan
+spain
+sudan
+sweden
+syria
+taiwan
+togo
+tunisia
+turkey
+united arab emirates
+united kingdom
+uruguay
+yemen
+zambia
+zimbabwe

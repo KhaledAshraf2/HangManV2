@@ -1,0 +1,40 @@
+apple
+microsoft
+google
+coca cola
+ibm
+mcdonalds
+samsung
+toyota
+general electric
+facebook
+disney
+at and t
+amazon
+bmw
+oracle
+nike
+intel
+honda
+mercedes benz
+gillete
+marlboro
+pepsi
+visa
+nescafe
+ford
+ikea
+pampers
+ebay
+starbucks
+mastercard
+zara
+hyundai
+kia
+red bull
+porsche
+adidas
+mtv
+ralph lauren
+hershey
+panasonic

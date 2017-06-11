@@ -1,0 +1,92 @@
+antigua and barbuda
+armenia
+aruba
+austria
+azerbaijan
+bahamas
+bangladesh
+barbados
+belarus
+belize
+benin
+bhutan
+bosnia and herzegovina
+botswana
+brunei 
+bulgaria
+burkina faso
+burma
+burundi
+cambodia
+cape verde
+central african
+comoros
+croatia
+curacao
+cyprus
+djibouti
+dominican
+east timor
+salvador
+equatorial guinea
+eritrea
+estonia
+fiji
+grenada
+guatemala
+haiti
+holy see
+honduras
+hungary
+indonesia
+kazakhstan
+kenya
+kiribati
+kosovo
+kyrgyzstan
+laos
+lesotho
+liechtenstein
+lithuania
+luxembourg
+macau
+macedonia
+madagascar
+malawi
+marshall islands
+mauritius
+micronesia
+moldova
+mongolia
+montenegro
+mozambique
+namibia
+nauru
+nepal
+nicaragua
+niger
+norway
+palau
+papua new guinea
+philippines
+samoa
+seychelles
+sierra leone
+singapore
+sri lanka
+suriname
+swaziland
+switzerland
+tajikistan
+tanzania
+thailand 
+tonga
+trinidad and tobago
+turkmenistan
+tuvalu
+uganda
+ukraine
+uzbekistan
+vanuatu
+venezuela
+vietnam

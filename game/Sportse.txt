@@ -1,0 +1,64 @@
+baseball
+basketball
+bowling
+cricket
+curling
+cycling
+archery
+camping
+fishing
+football
+gymnastics
+hunting
+kayaking
+mountaineering
+netball
+parachuting
+racquetball
+sailing
+shooting
+air racing
+beach volleyball
+body building
+boxing
+bull fighting
+caving
+chess
+darts
+diving
+figure skating
+fox hunting
+golf
+hand ball
+high jump
+hockey
+ice skating
+skating
+judo
+karate
+motorcycle racing
+mountain biking
+long Jump
+rock climbing
+roller skating
+rowing
+rugby
+skateboarding
+snow boarding
+soccer
+speed skating
+sprint running
+squash
+surfing
+swimming
+table tennis
+taekwondo
+tennis
+trampolining
+volleyball
+water polo
+water skiing
+weight lifting
+wrestling
+yachting
+yoga

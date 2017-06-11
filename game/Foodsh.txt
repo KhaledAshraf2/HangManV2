@@ -1,0 +1,56 @@
+asparagus
+avacado
+alfalfa
+acorn squash
+almond
+arugala
+artichoke
+antelope
+ahi tuna
+albacore tuna
+Bruscetta
+bacon
+bagels
+baked beans
+bbq
+bison
+bisque
+bluefish
+broccoli
+buritto
+carne asada
+chowder
+crab
+chimichanga
+enchilada
+edimame
+franks
+fondu
+gnocchi
+goose
+granola
+guancamole
+gumbo
+grits
+halibut
+huenos rancheros
+hash browns
+irish stew
+italian bread
+jambalaya
+jerky
+kale
+kabobs
+kingfish
+lobster
+linguine
+moose
+milkshake
+porter
+quesadilla
+quiche
+reuben
+tater tots
+venison
+ziti
+zucchini

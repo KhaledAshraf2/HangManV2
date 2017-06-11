@@ -1,0 +1,341 @@
+panda.			Animals
+housecat.		Animals
+duck.			Animals
+mouse.			Animals
+horse.			Animals
+camel.			Animals
+cougar.			Animals
+giraffe.		Animals
+bald eagle.		Animals
+crocodile.		Animals
+dog.			Animals
+bird.			Animals
+penguin.		Animals
+pony.			Animals
+bat.			Animals
+dolphin.		Animals
+hamster.		Animals
+rabbit. 		Animals
+buffalo.		Animals
+shark. 			Animals
+kitten.			Animals
+wolf.			Animals
+dragon.			Animals
+blue whale.		Animals
+puppy.			Animals
+owl.			Animals
+chipmunk.		Animals
+lamb.			Animals
+tiger.			Animals
+cow. 			Animals
+spider.			Animals
+turtle.			Animals
+seahorse.		Animals
+sea turtle.		Animals
+lion.			Animals
+donkey. 		Animals
+frog. 			Animals
+crow.			Animals
+zebra. 			Animals
+chimpanzee.		Animals
+seagull.		Animals
+jellyfish.		Animals
+crab.			Animals
+catfish.		Animals
+apple.			Brands
+microsoft.		Brands
+google.			Brands
+coca cola.		Brands
+ibm.			Brands
+macdonalds.		Brands
+samsung.		Brands
+toyota.			Brands
+general electric.	Brands
+facebook.		Brands
+disney.			Brands
+at and t.		Brands
+amazon.			Brands
+bmw.			Brands
+oracle.			Brands
+nike.			Brands
+intel.			Brands
+honda.			Brands
+mercedes benz.		Brands
+gillete.		Brands
+marlboro.		Brand
+pepsi.			Brands			
+visa.			Brands
+nescafe.		Brands
+ford.			Brands
+ikea.			Brands
+pampers.		Brands
+ebay.			Brands
+starbucks.		Brands
+mastercard.		Brands
+zara.			Brands
+hyundai.		Brands
+kia.			Brands
+red bull.		Brands
+porsche.		Brands
+adidas.			Brands
+mtv.			Brands
+ralph lauren.		Brands
+hershey.		Brands
+panasonic.		Brands
+afghanistan.		Countries
+algeria.		Countries
+angola.			Countries
+argentina.		Countries
+australia.		Countries
+bahrain.		Countries
+belgium.		Countries
+bolivia.		Countries
+brazil.			Countries
+albania.		Countries
+andorra.		Countries
+cameroon.		Countries
+canada.			Countries
+chad.			Countries
+chile.			Countries
+china.			Countries
+colombia.		Countries
+congo.			Countries
+costa rica.		Countries
+cuba.			Countries
+czech.			Countries
+denmark.		Countries
+ecuador.		Countries
+egypt.			Countries
+ethiopia.		Countries
+france.			Countries
+gabon.			Countries
+gambia.			Countries
+georgia.		Countries
+germany.		Countries
+ghana.			Countries
+greece.			Countries
+finland.		Countries
+guinea.			Countries
+hong kong.		Countries
+iceland.		Countries
+india.			Countries
+iran.			Countries
+iraq.			Countries
+ireland.		Countries
+italy.			Countries
+jamaica.		Countries
+japan.			Countries
+jordan.			Countries
+korea.			Countries
+kuwait.			Countries
+latvia.			Countries
+lebanon.		Countries
+liberia.		Countries
+libya.			Countries
+malaysia.		Countries
+maldives.		Countries
+mali.			Countries
+malta.			Countries
+mauritania.		Countries
+mexico.			Countries
+monaco.			Countries
+morocco.		Countries
+netherlands.		Countries
+new zealand.		Countries
+nigeria.		Countries
+north korea.		Countries
+oman.			Countries
+pakistan.		Countries
+palestinian.		Countries
+panama.			Countries
+paraguay.		Countries
+peru.			Countries
+poland.			Countries
+portugal.		Countries
+qatar.			Countries
+romania.		Countries
+russia.			Countries
+rwanda.			Countries
+san marino.		Countries
+saudi arabia.		Countries
+senegal.		Countries
+serbia.			Countries
+slovakia.		Countries
+slovenia.		Countries
+somalia.		Countries
+south africa.		Countries
+south korea.		Countries
+south sudan.		Countries
+spain.			Countries
+sudan.			Countries
+sweden.			Countries
+syria.			Countries
+taiwan.			Countries
+togo.			Countries
+tunisia.		Countries
+turkey.			Countries
+united arab emirates.	Countries
+united kingdom.		Countries
+uruguay.		Countries
+yemen.			Countries
+zambia.			Countries
+zimbabwe.		Countries
+apples.			Foods
+applesauce.		Foods
+apple juice.		Foods
+black beans.		Foods
+barley.			Foods
+beer.			Foods
+bread.			Foods
+babaganoosh.		Foods
+cabbage.		Foods
+cake.			Foods
+carrots.		Foods
+celery.			Foods
+cheese.			Foods
+chicken.		Foods
+catfish.		Foods
+chips.			Foods
+chocolate.		Foods
+clams.			Foods
+coffee.			Foods
+cookies.		Foods
+corn.			Foods
+cupcakes.		Foods
+curry.			Foods
+cereal.			Foods
+dates.			Foods
+duck.			Foods
+dumplings.		Foods
+donuts.			Foods
+eggs.			Foods
+sushi.			Foods
+fajita.			Foods
+falafel.		Foods
+fish.			Foods
+toast.			Foods
+garlic.			Foods
+ginger.			Foods
+grapes.			Foods
+green beans.		Foods
+ham.			Foods
+hamburger.		Foods
+honey.			Foods
+hot dogs.		Foods
+hummus.			Foods
+ice cream.		Foods
+jam.			Foods
+jelly.			Foods
+ketchup.		Foods
+kiwi.			Foods
+kidney beans.		Foods
+lamb.			Foods
+lasagna.		Foods
+meatballs.		Foods
+milk.			Foods
+noodles.		Foods
+ostrich.		Foods
+pizza.			Foods
+pepperoni.		Foods
+pancakes.		Foods
+spinach.		Foods
+spaghetti.		Foods
+waffles.		Foods
+wine.			Foods
+walnuts.		Foods
+yogurt.			Foods
+baseball.		Sports
+basketball.		Sports
+bowling.		Sports
+cricket.		Sports
+curling.		Sports
+cycling.		Sports
+archery.		Sports
+camping.		Sports
+fishing.		Sports	
+football.		Sports
+gymnastics.		Sports
+hunting.		Sports
+kayaking.		Sports
+mountaineering.		Sports
+netball.		Sports
+parachuting.		Sports
+racquetball.		Sports
+sailing.		Sports
+shooting.		Sports
+air racing.		Sports
+beach volleyball.	Sports
+body building.		Sports
+boxing.			Sports
+bull fighting.		Sports
+caving.			Sports
+chess.			Sports
+darts.			Sports
+diving.			Sports
+figure skating.		Sports
+fox hunting.		Sports
+golf.			Sports
+hand ball.		Sports
+high jump.		Sports
+hockey.			Sports
+ice skating.		Sports
+skating.		Sports
+judo.			Sports
+karate.			Sports
+motorcycle racing.	Sports
+mountain biking.	Sports
+long Jump.		Sports
+rock climbing.		Sports
+roller skating.		Sports
+rowing.			Sports
+rugby.			Sports
+skateboarding.		Sports
+snow boarding.		Sports
+soccer.			Sports
+speed skating.		Sports
+sprint running.		Sports
+squash.			Sports
+surfing.		Sports
+swimming.		Sports
+table tennis.		Sports
+taekwondo.		Sports
+tennis.			Sports
+trampolining.		Sports
+volleyball.		Sports
+water polo.		Sports
+water skiing.		Sports
+weight lifting.		Sports
+wrestling.		Sports
+yachting.		Sports
+yoga.			Sports	
+shrek. 			Movies
+alice in wonderland. 	Movies
+finding nemo.		Movies
+snow white.		Movies
+the incredibles.	Movies
+sleeping beauty.	Movies
+high school musical.	Movies
+the parent trap.	Movies
+tarzan.			Movies
+aladdin.		Movies
+batman.			Movies	
+pocahontas.		Movies
+et.			Movies
+beauty and the beast.	Movies
+cinderella. 		Movies
+cars.			Movies
+spiderman. 		Movies
+peter pan. 		Movies
+toy story.		Movies
+inception.		Movies
+robin.			Movies
+the lion king.		Movies
+dumbo.			Movies
+babe.			Movies
+the kid.		Movies
+big.			Movies
+the little mermaid.	Movies
+the lord of the rings.	Movies
+the avengers.		Movies
+iron man.		Movies
+up.			Movies

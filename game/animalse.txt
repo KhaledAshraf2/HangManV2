@@ -1,0 +1,44 @@
+panda
+housecat
+duck
+mouse
+horse
+camel
+cougar
+giraffe
+bald eagle
+crocodile
+dog
+bird
+penguin
+pony
+bat
+dolphin
+hamster
+rabbit 
+buffalo
+shark 
+kitten
+wolf
+dragon
+blue whale
+puppy
+owl
+chipmunk
+lamb
+tiger
+cow 
+spider
+turtle
+seahorse
+sea turtle
+lion 
+donkey 
+frog 
+crow
+zebra 
+chimpanzee
+seagull
+jellyfish
+crab
+catfish
